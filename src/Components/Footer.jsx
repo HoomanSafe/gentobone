@@ -9,7 +9,7 @@ const Footer = () => {
         <a href="https://t.me/RarePepeETH" target="_blank">
           <img src={Telegram} className="w-[3rem]" alt="" />
         </a>
-        <a href="Twitter.com/RarestPePeETH" target="_blank">
+        <a href="https://twitter.com/RarestPePeETH" target="_blank">
           <img src={twitter} className="w-[3rem]" alt="" />
         </a>
       </div>
