@@ -1,7 +1,6 @@
 import React from "react";
 import logo from "../assets/logo2.jpg";
 
-
 const Hero = () => {
   return (
     <section className="pt-[150px] pb-[50px] w-full text-white">
@@ -22,14 +21,15 @@ const Hero = () => {
               view chart
             </a>
             <a
-              href=""
+              href="Twitter.com/RarestPePeETH"
+              target="_blank"
               className="px-6 py-3 border border-red bg-red hover:bg-transparent hover:border-white rounded-3xl font-semibold capitalize hover:text-white hover:bg-red"
             >
               telegram
             </a>
           </div>
         </div>
-        <img src={logo} alt="" className="rounded-full"/>
+        <img src={logo} alt="" className="rounded-full" />
       </div>
     </section>
   );
