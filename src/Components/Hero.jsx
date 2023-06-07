@@ -15,7 +15,7 @@ const Hero = () => {
           </h1>
           <div className="flex flex-col md:justify-between w-full md:flex-row gap-5">
             <a
-              href=""
+              href="https://dexscreener.com/ethereum/0x687f721fbd06647255831ef17c455435966d0170"
               className="px-6 py-3 border border-red rounded-3xl font-semibold capitalize hover:text-white hover:bg-red"
             >
               view chart
