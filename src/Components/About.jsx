@@ -1,4 +1,5 @@
 import React from "react";
+import Pepe from "../assets/pepe.png";
 
 const About = () => {
   return (
@@ -8,13 +9,29 @@ const About = () => {
           about rare pepe
         </h1>
         <p className="text-xl md:text-2xl mt-10">
-          Rare Pepe is a unique and innovative crypto project built on the
-          Ethereum blockchain that aims to revolutionize digital collectibles
-          and bring the concept of rare art into the world of blockchain
-          technology. Inspired by the popular internet meme known as Pepe the
-          Frog, Rare Pepe introduces a new dimension to the crypto space by
-          combining humor, art, and blockchain technology.
+          Picture this: Rare Pepe, a digital currency that trades in giggles
+          rather than dollars. Instead of serious financial transactions, users
+          engage in uproarious exchanges of rare memes that'll leave your sides
+          splitting. These one-of-a-kind tokens represent the pinnacle of meme
+          artistry, featuring Pepe the Frog in the most outrageous and
+          sidesplitting scenarios you can imagine.
         </p>
+        <p className="text-xl md:text-2xl mt-10">
+          Picture this: Rare Pepe, a digital currency that trades in giggles
+          rather than dollars. Instead of serious financial transactions, users
+          engage in uproarious exchanges of rare memes that'll leave your sides
+          splitting. These one-of-a-kind tokens represent the pinnacle of meme
+          artistry, featuring Pepe the Frog in the most outrageous and
+          sidesplitting scenarios you can imagine.
+        </p>{" "}
+        <p className="text-xl md:text-2xl mt-10">
+          How does it work? Well, imagine stumbling upon a Rare Pepe token
+          depicting a majestic Pepe in a tutu, gracefully pirouetting atop a
+          banana peel. Or perhaps you'll find a limited edition Rare Pepe where
+          Pepe's face is hilariously morphed with that of a rubber chicken. The
+          possibilities are as endless as the internet's absurdity!
+        </p>
+        <img src={Pepe} alt="" className="md:w-[25rem]" />
       </div>
     </section>
   );
