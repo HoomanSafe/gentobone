@@ -16,14 +16,7 @@ const About = () => {
           artistry, featuring Pepe the Frog in the most outrageous and
           sidesplitting scenarios you can imagine.
         </p>
-        <p className="text-xl md:text-2xl mt-10">
-          Picture this: Rare Pepe, a digital currency that trades in giggles
-          rather than dollars. Instead of serious financial transactions, users
-          engage in uproarious exchanges of rare memes that'll leave your sides
-          splitting. These one-of-a-kind tokens represent the pinnacle of meme
-          artistry, featuring Pepe the Frog in the most outrageous and
-          sidesplitting scenarios you can imagine.
-        </p>{" "}
+       
         <p className="text-xl md:text-2xl mt-10">
           How does it work? Well, imagine stumbling upon a Rare Pepe token
           depicting a majestic Pepe in a tutu, gracefully pirouetting atop a
