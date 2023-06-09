@@ -14,7 +14,7 @@ const Token = () => {
           <iframe src="https://dexscreener.com/ethereum/0x687f721fbd06647255831EF17c455435966D0170?embed=1&theme=dark&trades=0&info=0"></iframe>
         </div> */}
 
-        <img src={Pepe} alt="" />
+        <img src={Pepe} alt="" className="md:w-[25rem]" />
       </div>
     </section>
   );

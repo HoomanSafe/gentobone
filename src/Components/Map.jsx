@@ -5,8 +5,9 @@ import {
 } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
 import { MdOutlineRocketLaunch } from "react-icons/md";
-import {AiOutlineSafety} from "react-icons/ai"
-import {RiSpaceShipLine} from "react-icons/ri"
+import { AiOutlineSafety } from "react-icons/ai";
+import { RiSpaceShipLine } from "react-icons/ri";
+import Pepe2 from "../assets/2.png";
 
 const Map = () => {
   return (
@@ -65,6 +66,7 @@ const Map = () => {
             </ul>
           </VerticalTimelineElement>
         </VerticalTimeline>
+        <img src={Pepe2} alt="" className="md:w-[15rem] mx-auto" />
       </div>
     </section>
   );
