@@ -6,10 +6,10 @@ const Footer = () => {
   return (
     <footer className="py-[50px] w-full flex justify-center items-center">
       <div className="flex items-center justify-center gap-4">
-        <a href="https://t.me/RarePePeERCPortal" target="_blank">
+        <a href="https://t.me/RarePepe20" target="_blank">
           <img src={Telegram} className="w-[3rem]" alt="" />
         </a>
-        <a href="https://twitter.com/RarestPePeETH" target="_blank">
+        <a href="https://twitter.com/RarePepe2_0" target="_blank">
           <img src={twitter} className="w-[3rem]" alt="" />
         </a>
       </div>

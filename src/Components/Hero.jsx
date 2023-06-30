@@ -22,7 +22,7 @@ const Hero = () => {
               view chart
             </a>
             <a
-              href="https://t.me/RarePePeERCPortal"
+              href="https://t.me/RarePepe20"
               target="_blank"
               className="px-6 py-3 border border-red bg-red hover:bg-transparent hover:border-white rounded-3xl font-semibold capitalize hover:text-white hover:bg-red"
             >
