@@ -11,7 +11,7 @@ const Hero = () => {
           </h3>
           <h1 className="text-3xl md:text-5xl font-bold leading-relaxed">
             Hold onto your funny bones and get ready to dive into the wacky
-            world of Rare Pepe!
+            world of Rare Pepe 2.0!
           </h1>
           <div className="flex flex-col md:justify-between w-full md:flex-row gap-5">
             <a
