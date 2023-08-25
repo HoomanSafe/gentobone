@@ -15,14 +15,14 @@ const Hero = () => {
           </h1>
           <div className="flex flex-col md:justify-between w-full md:flex-row gap-5">
             <a
-              href="https://dexscreener.com/ethereum/0x4f95c9a2f21c5d1b7c24d1c8dc2821f7f67ecfaa"
+              href=""
               target="_blank"
               className="px-6 py-3 border border-red rounded-3xl font-semibold capitalize hover:text-white hover:bg-red"
             >
               view chart
             </a>
             <a
-              href="https://t.me/RarePepe20"
+              href="https://t.me/RarePepeENTRY"
               target="_blank"
               className="px-6 py-3 border border-red bg-red hover:bg-transparent hover:border-white rounded-3xl font-semibold capitalize hover:text-white hover:bg-red"
             >
