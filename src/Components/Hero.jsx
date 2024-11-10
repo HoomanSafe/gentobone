@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assets/logo.png";
+import logo from "../assets/logo1.png";
 
 const Hero = () => {
   return (
@@ -11,7 +11,7 @@ const Hero = () => {
           </h3>
           <h1 className="text-3xl md:text-5xl font-bold leading-relaxed">
             Hold onto your funny bones and get ready to dive into the wacky
-            world of Rare Pepe
+            world of Gento Bone
           </h1>
           <div className="flex flex-col md:justify-between w-full md:flex-row gap-5">
             <a
@@ -22,7 +22,7 @@ const Hero = () => {
               view chart
             </a>
             <a
-              href="https://t.me/RarePepeENTRY"
+              href="https://t.me/GENTOBone"
               target="_blank"
               className="px-6 py-3 border border-red bg-red hover:bg-transparent hover:border-white rounded-3xl font-semibold capitalize hover:text-white hover:bg-red"
             >
