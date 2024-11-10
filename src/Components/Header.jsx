@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assets/logo.png";
+import logo from "../assets/logo1.png";
 import { Link, animateScroll as scroll } from "react-scroll";
 
 
