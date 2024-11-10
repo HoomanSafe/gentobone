@@ -7,7 +7,7 @@ import "react-vertical-timeline-component/style.min.css";
 import { MdOutlineRocketLaunch } from "react-icons/md";
 import { AiOutlineSafety } from "react-icons/ai";
 import { RiSpaceShipLine } from "react-icons/ri";
-import Pepe2 from "../assets/2.png";
+import Pepe2 from "../assets/logo1.jpeg";
 
 const Map = () => {
   return (
